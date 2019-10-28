@@ -6,7 +6,7 @@
     },
     {
       "id": 2,
-      "status": "good"
+      "status": "bad"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
     },
     {
       "id": 2,
-      "body": "yeeters my duudetts",
+      "body": "descr",
       "postId": 1
     }
   ],
