@@ -1,16 +1,16 @@
 {
-  "loans": [
+  "logins": [
     {
       "id": 1,
-      "title": "Loan 1"
+      "status": "good"
     },
     {
       "id": 2,
-      "title": "Loan 2"
+      "status": "good"
     },
     {
       "id": 3,
-      "title": "Loan 3"
+      "status": "good"
     }
   ],
   "depots": [
