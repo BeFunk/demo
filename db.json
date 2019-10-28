@@ -2,7 +2,7 @@
   "logins": [
     {
       "id": 1,
-      "status": "good"
+      "status": "bad"
     },
     {
       "id": 2,
