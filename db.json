@@ -13,14 +13,16 @@
       "status": "good"
     }
   ],
-  "depots": [
+  "service": [
     {
       "id": 1,
+      "status": "good" ,
       "body": "for restoration",
       "postId": 1
     },
     {
       "id": 2,
+      "status": "good" ,
       "body": "descr",
       "postId": 1
     }
