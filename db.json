@@ -1,68 +1,31 @@
-[
-  {
-    "charged": {
-      "currency": "string",
-      "value": 0
+{
+  "loans": [
+    {
+      "id": 1,
+      "title": "Loan 1"
     },
-    "collectedOn": "string",
-    "due": {
-      "currency": "string",
-      "value": 0
+    {
+      "id": 2,
+      "title": "Loan 2"
     },
-    "dueOn": "string",
-    "from": "string",
-    "interest": {
-      "currency": "string",
-      "value": 0
+    {
+      "id": 3,
+      "title": "Loan 3"
+    }
+  ],
+  "depots": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
-    "interestRate": 0,
-    "loanPartId": "string",
-    "loanPartSequenceNumber": 0,
-    "paidFromConstructionAccount": {
-      "currency": "string",
-      "value": 0
-    },
-    "paymentPeriods": [
-      {
-        "due": {
-          "currency": "string",
-          "value": 0
-        },
-        "from": "string",
-        "interest": {
-          "currency": "string",
-          "value": 0
-        },
-        "interestRate": 0,
-        "paidFromConstructionAccount": {
-          "currency": "string",
-          "value": 0
-        },
-        "previousTermBalance": {
-          "currency": "string",
-          "value": 0
-        },
-        "redemption": {
-          "currency": "string",
-          "value": 0
-        },
-        "remainingPrincipal": {
-          "currency": "string",
-          "value": 0
-        },
-        "to": "string"
-      }
-    ],
-    "paymentReference": "string",
-    "previousTermbalance": {
-      "currency": "string",
-      "value": 0
-    },
-    "redemption": {
-      "currency": "string",
-      "value": 0
-    },
-    "sequenceNumber": 0,
-    "to": "string"
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
